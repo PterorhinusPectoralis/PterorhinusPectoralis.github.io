@@ -1,33 +1,33 @@
- * {
+* {
       font-family: Arial, sans-serif;
       padding: 0;
       margin: 0;
-    }
-    
-    body {
-      background-color: #536F8D;
-    }
-    
-    #heading {
-        margin: 20px 0px 20px 0px;
-        font-weight: normal;
-        text-align: center;
-        color: white;
-    }
-    
-    .navbar a {
+}
+
+body {
+      background-color: #6A91B9;
+}
+
+#heading {
+      margin: 20px 0px 20px 0px;
+      text-align: center;
+      font-size: 50px;
+      color: white;
+}
+
+.navbar a {
        margin: 10px 10px 10px;
        text-decoration: none;
-       color: #AEBECD;
+       color: #CCDDEF;
        float: left;
-    }
-    
-    hr {
+}
+
+hr {
         margin: 15px auto 5px;
         width: 80%;
-    }
-    
-    .navbar {
+}
+
+.navbar {
         width: 80%;
         margin: 0 auto;
-    }
+}
