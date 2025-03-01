@@ -12,7 +12,7 @@ body {
       margin: 20px 0px 20px 0px;
       text-align: center;
       font-size: 50px;
-      color: #CCDDEF;
+      color: white;
 }
 
 .navbar {
@@ -27,7 +27,7 @@ body {
 
 .navbar li a {
       text-decoration: none;
-      color: #CCDDEF;
+      color: white;
       float: left;
       margin: 10px
 }
