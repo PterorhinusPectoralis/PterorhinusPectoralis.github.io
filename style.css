@@ -5,18 +5,18 @@
 }
 
 body {
-      background-color: #6A91B9;
+      background-color: #7398BE;
+      color: #D4E3F2;
 }
 
 #heading {
       margin: 20px 0px 20px 0px;
       text-align: center;
       font-size: 50px;
-      color: #CCDDEF;
 }
 
 .navbar {
-        width: 80%;
+        width: 75%;
         margin: 0 auto;
 }
 
@@ -27,7 +27,6 @@ body {
 
 .navbar li a {
       text-decoration: none;
-      color: #CCDDEF;
       margin: 10px;
       font-size: 20px;
 }
@@ -35,4 +34,13 @@ body {
 hr {
         margin: 15px auto 20px;
         width: 80%;
+}
+
+.about {
+      width: 80%;
+      margin: 0 auto;
+}
+
+h2 {
+      margin: 20px 0px;
 }
