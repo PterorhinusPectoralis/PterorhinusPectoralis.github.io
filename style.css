@@ -53,3 +53,10 @@ h3 {
 p {
       margin: 10px;
 }
+
+.notification {
+      border: 2px dotted red;
+      padding: 3px;
+      background-color: pink;
+      color: red;
+}
