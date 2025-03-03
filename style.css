@@ -14,7 +14,7 @@ body {
 }
 
 .navbar {
-        width: 90%;
+        width: 95%;
         margin: 0 auto;
 }
 
@@ -24,10 +24,15 @@ body {
 }
 
 .navbar li a {
-      text-decoration: none;
-      margin: 10px;
-      font-size: 20px;
-      color: #C8D5E9;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: #C8D5E9;
+}
+
+.navbar li a:hover {
+      background-color: #005A4B;
+      color: #C3E8E2;
 }
 
 hr {
