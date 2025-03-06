@@ -35,6 +35,11 @@ body {
       color: #C3E8E2;
 }
 
+.navbar li a.wip:hover {
+      background-color: #170A58;
+      color: #D0CBEB;
+}
+
 hr {
         margin: 15px auto 20px;
 }
@@ -49,6 +54,14 @@ h3 {
 
 p {
       margin: 10px;
+}
+
+a {
+      font-weight: bold;
+}
+
+a:hover {
+      color: #029179;
 }
 
 .notification {
