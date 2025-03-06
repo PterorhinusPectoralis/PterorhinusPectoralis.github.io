@@ -2,8 +2,8 @@ body {
       font-family: Arial, sans-serif;
       padding: 0;
       margin: 0 auto;
-      width: 60%;
-      background-color: #15253F;
+      width: 50%;
+      background-color: #1D2531;
       color: #C8D5E9;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .navbar li a:hover {
-      background-color: #005A4B;
+      background-color: #005043;
       color: #C3E8E2;
 }
 
