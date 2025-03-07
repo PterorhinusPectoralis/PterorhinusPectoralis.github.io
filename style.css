@@ -72,3 +72,9 @@ a:hover {
       margin: 10px;
       background-color: red;
 }
+
+.date {
+      font-size: 13px;
+      margin: 15px 0px;
+      color: lightGray;
+}
